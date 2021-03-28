@@ -1,0 +1,23 @@
+.carousel-indicators li {
+    background-color:DimGray;
+}
+
+.carousel-indicators > .active {
+    background-color:silver;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: silver;
+}
+.mrg{
+    padding: 1em 2em 0em 2em;
+}
+.pad{
+   padding-top: 1em;
+}
+.imgLogo{
+    padding-left: 40%;
+}
+footer{
+    padding-top: 1em;
+}
